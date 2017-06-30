@@ -2,8 +2,11 @@
 
 ## How to run
 Clone the repository
+
 Install node modules with `npm install`
+
 Run `node index.js`
+
 Visit `http://localhost:2017`
 
 ## What is does
