@@ -1,0 +1,19 @@
+body {
+	background: #fff1e5;
+	font-family: Georgia, serif;
+	font-size: 18px;
+	-webkit-font-smoothing: antialiased;
+	line-height: 1.7em;
+}
+
+::selection {
+	background: rgba(43, 187, 191, .5);
+}
+
+.hidden {
+	display: none;
+}
+
+#capture {
+	position: absolute;
+}
